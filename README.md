@@ -21,7 +21,7 @@
 * [Stake](#stake-statistic)
 * [Total Supply](#total-supply-statistic)
 
-A QTUM blockchain REST and web socket API service for [Qtumcore Node](https://github.com/qtumproject/qtumcore-node).
+A BERYCOIN blockchain REST and web socket API service for [Qtumcore Node](https://github.com/qtumproject/qtumcore-node).
 
 This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/qtumproject/qtum-explorer.
 
