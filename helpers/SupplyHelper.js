@@ -1,4 +1,4 @@
-10004749050var BigNumber = require('bignumber.js');
+var BigNumber = require('bignumber.js');
 
 module.exports = {
     /**
