@@ -1003,7 +1003,7 @@ StatisticService.prototype.getTotal = function(nextCb) {
 StatisticService.prototype.getTotalSupply  = function() {
     var blockHeight = this.node.services.berycoind.height;
 
-    var supply = (new BigNumber(10000000000)).plus((blockHeight - 2000) * 950);
+    var supply = (new BigNumber(10001898100)).plus((blockHeight - 2000) * 950);
 
     return supply;
 }
